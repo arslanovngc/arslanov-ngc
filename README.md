@@ -42,6 +42,6 @@
 
 <br /> 
 
-[![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white&align=center)](mailto:arslanovngc@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white&align=center)](https://linkedin.com/in/arslanovngc)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-259CD8?style=for-the-badge&logo=telegram&logoColor=white&align=center)](https://t.me/arslanovngc)
+[![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white&center=true&vCenter=true)](mailto:arslanovngc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white&center=true&vCenter=true)](https://linkedin.com/in/arslanovngc)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-259CD8?style=for-the-badge&logo=telegram&logoColor=white&center=true&vCenter=true)](https://t.me/arslanovngc)
