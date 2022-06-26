@@ -9,12 +9,11 @@
 </div> 
 
 <div align="left">
-   <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=arslanov-ngc&theme=react-dark&hide_border=true&area=true" />
+   <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=arslanov-ngc&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <div align="left">  
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=arslanov-ngc&show_icons=true&count_private=true&hide_border=true&title_color=EEE&icon_color=FFF&text_color=DDD&bg_color=0d1117" alt="My github stats" /> 
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanov-ngc&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanov-ngc&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
 <br /> 
