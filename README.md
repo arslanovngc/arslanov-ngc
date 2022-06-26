@@ -42,8 +42,6 @@
 
 <br /> 
 
-<div align="center">
 [![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanovngc@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanovngc)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-259CD8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arslanovngc)
-</div> 
