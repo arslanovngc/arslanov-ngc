@@ -43,7 +43,7 @@
 <br /> 
 
 <p align="center">
-[![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanovngc@gmail.com)
+{[![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanovngc@gmail.com)}
 </p>
 <p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanovngc)
