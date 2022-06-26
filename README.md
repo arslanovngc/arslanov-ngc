@@ -1,31 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+everyone!.;I'm+Arslanov+Ismatillo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hi+everyone!.;I'm+Arslanov+Ismatillo.)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="left">
    I'm Front-End Developer and I'm 18 years old. I study at IT Technical School of Andijan
 </div> 
 
-<div align="center">
+<div align="left">
    In my free time I love reading books, listening rain's sound. Also I like playing tennis, football, volleyball.
 </div> 
 
-<div align="center">
+<div align="left">
    <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=arslanov-ngc&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=arslanov-ngc&show_icons=true&count_private=true&hide_border=true&title_color=EEE&icon_color=FFF&text_color=DDD&bg_color=0d1117" alt="My github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanov-ngc&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+<div align="left">  
+  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=arslanov-ngc&show_icons=true&count_private=true&hide_border=true&title_color=EEE&icon_color=FFF&text_color=DDD&bg_color=0d1117" alt="My github stats" /> 
+  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanov-ngc&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
 <br /> 
 
-<div align="center">
+<div align="left">
    Languages and Tools
 </div>
 
 <br /> 
 
-<div align="center">
+<div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 0 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 0 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"style="margin: 0 10px;" />
@@ -36,18 +36,12 @@
 
 <br /> 
 
-<div align="center">
+<div align="left">
    Contact
 </div>
 
 <br /> 
 
-<p align="center">
-{[![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanovngc@gmail.com)}
-</p>
-<p align="center">
+[![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanovngc@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanovngc)
-</p>
-<p align="center">
 [![Telegram Badge](https://img.shields.io/badge/Telegram-259CD8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arslanovngc)
-</p>
