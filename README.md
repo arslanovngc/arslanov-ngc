@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hi+everyone!.;I'm+Arslanov+Ismatillo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hi+everyone!;I'm+Arslanov+Ismatillo.)](https://git.io/typing-svg)
 
 <div align="left">
    I'm Front-End Developer and I'm 18 years old. I study at IT Technical School of Andijan
