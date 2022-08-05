@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hi+everyone!;I'm+Arslanov+Ismatillo.)](https://git.io/typing-svg)
 
 <div align="left">
-   I'm Front-End Developer and I'm 18 years old. I study at IT Technical School of Andijan
+   Hi dear 👋 <br/> I'm Front-End Developer and I'm 18 years old. I study at IT Technical School of Andijan
 </div> 
 
 <div align="left">
-   In my free time I love reading books, listening rain's sound. Also I like playing tennis, football, volleyball.
+   I love coding ❤️
 </div> 
 
 <br />
@@ -47,4 +47,3 @@
 
 [![Email Badge](https://img.shields.io/badge/Gmail-E77344?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanovngc@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0C67C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanovngc)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-259CD8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arslanovngc)
