@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hi+everyone!;I'm+Arslanov+Ismatillo.)](https://git.io/typing-svg)
 
 <div align="left">
-   Hi dear 👋 <br/> I'm Front-End Developer.
-</div> 
-
-<div align="left">
-   I love coding ❤️
+   Howdy 👋
 </div> 
 
 <br />
@@ -29,6 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"style="margin: 0 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"style="margin: 0 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"style="margin: 0 10px;" />
 </div>
 
 <br /> 
